@@ -2,7 +2,7 @@
 
 function value($a){
     $a=5;
-    echo $a;
+    echo $a.1;
     
 }
 
